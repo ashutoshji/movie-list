@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar test SearchBar should match snapshot 1`] = `
+<div
+  className="search__container"
+>
+  <p
+    className="search__title"
+  >
+    Go ahead, Search any movie
+  </p>
+  <input
+    className="search__input"
+    placeholder="Search for a movie"
+    type="text"
+  />
+</div>
+`;

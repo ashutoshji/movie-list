@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MoviePage test MoviePage should match snapshot 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="search__container"
+  >
+    <p
+      className="search__title"
+    >
+      Go ahead, Search any movie
+    </p>
+    <input
+      className="search__input"
+      onChange={[Function]}
+      placeholder="Search for a movie"
+      type="text"
+      value="Dark"
+    />
+  </div>
+  <p>
+    Couldn't find any movie. Please search again using another search criteria.
+  </p>
+</div>
+`;

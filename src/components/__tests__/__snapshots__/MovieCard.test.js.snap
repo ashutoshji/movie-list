@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieCard test MovieCard should match snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="front"
+    style={
+      Object {
+        "backgroundImage": "url(https://image.tmdb.org/t/p/w185_and_h278_bestv2undefined)",
+      }
+    }
+  />
+  <div
+    className="back"
+  >
+    <div
+      className="title"
+    >
+      <h3 />
+    </div>
+    <p />
+    <div
+      className="date"
+    >
+      Published: 
+    </div>
+  </div>
+</div>
+`;
